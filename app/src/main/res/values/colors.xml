@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#E50914</color>
+    <color name="primary_variant">#B00020</color>
+    <color name="secondary">#FFD700</color>
+    <color name="secondary_variant">#FFA000</color>
+    <color name="colorAccent">#F00707</color>
+
+    <color name="colorPrimary">#B71C1C</color> <!-- Merah tua -->
+    <color name="colorPrimaryDark">#7F0000</color> <!-- Merah lebih gelap -->
+    <color name="backgroundDark">#121212</color> <!-- Hitam -->
+    <color name="cardBackground">#1E1E1E</color> <!-- Abu-abu gelap untuk kartu -->
+    <color name="textPrimary">#FFFFFF</color> <!-- Putih untuk teks utama -->
+    <color name="textSecondary">#B0BEC5</color>
+
+    <!-- Background Colors -->
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="card_background">#2D2D2D</color>
+
+    <!-- Text Colors -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#000000</color>
+    <color name="on_background">#FFFFFF</color>
+    <color name="on_surface">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="watched_color">#4CAF50</color>
+    <color name="want_to_watch_color">#FF9800</color>
+    <color name="error">#CF6679</color>
+    <color name="edittext_bg">#1E1E1E</color>
+    <color name="hint_color">#BDBDBD</color>
+</resources>

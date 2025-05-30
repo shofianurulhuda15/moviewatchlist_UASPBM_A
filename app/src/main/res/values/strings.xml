@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Watchlist</string>
+    <!--    <string-array name="status_array">-->
+    <!--        <item>Watched</item>-->
+    <!--        <item>Want to Watch</item>-->
+    <!--    </string-array>-->
+</resources>
