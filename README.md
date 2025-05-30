@@ -65,8 +65,8 @@ Sebelum menjalankan proyek, pastikan Anda memiliki:
 
 ### 1. Kloning Repositori
 ```bash
-git clone https://github.com/[your-username]/MovieWatchlist-UAS.git
-cd MovieWatchlist-UAS
+(https://github.com/shofianurulhuda15/moviewatchlist_UASPBM_A.git)
+cd moviewatchlist_UASPBM_A
 ```
 
 ### 2. Buka Proyek
