@@ -245,8 +245,8 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file `LICENSE` untuk det
 ---
 
 ## 👨‍💻 Tim Pengembang
-- **Sofi** ([sofi@email.com](mailto:sofi@email.com))
-- **[Nama Anggota 2]** ([email2@email.com](mailto:email2@email.com))
+- **Shofia Nurul Huda (2208107010015)** ([shofianurulhuda@gmail.com](mailto:shofianurulhuda@gmail.com))
+- **Jihan Nabilah** ([putri.manis456@gmail.com](mailto:putri.manis456@gmail.com))
 
 ---
 
@@ -274,4 +274,4 @@ Proyek ini dilisensikan di bawah **MIT License**. Lihat file `LICENSE` untuk det
 ---
 
 Terima kasih telah menggunakan **MovieWatchlist**! 🎬  
-Untuk pertanyaan atau dukungan, hubungi [sofi@email.com](mailto:sofi@email.com).
+Untuk pertanyaan atau dukungan, hubungi [shofianurulhuda@gmail.com](mailto:shofianurulhuda@gmail.com) atau [putri.manis456@gmail.com](mailto:putri.manis456@gmail.com).
